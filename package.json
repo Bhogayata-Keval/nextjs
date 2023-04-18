@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@middleware.io/nextjs-vercel": "^1.0.22",
     "eslint": "8.37.0",
     "eslint-config-next": "13.3.0",
     "next": "13.3.0",
